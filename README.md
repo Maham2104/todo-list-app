@@ -1,16 +1,77 @@
-# React + Vite
+# ✅ Todo List App (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and reusable **Todo List App** built with **React (Vite)**.  
+This project demonstrates **component-based architecture**, **props passing**, and **reusable UI design** with a clean **dark theme**.  
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Add new todos with ease ✨  
+- Edit existing todos 📝  
+- Delete todos ❌  
+- Fully responsive dark theme 🌙  
+- Styled with modern CSS 🎨  
+- Component-based architecture (TodoItem, TodoList, App) ⚛️  
 
-## React Compiler
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 Project Structure
+todo-list-app/
+├── src/
+│ ├── components/
+│ │ ├── TodoItem.jsx
+│ │ ├── TodoList.jsx
+│ │ └── TodoItem.css
+│ ├── App.jsx
+│ ├── App.css
+│ └── main.jsx
+├── package.json
+├── vite.config.js
+└── README.md
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **React 19**  
+- **Vite 7**  
+- **CSS3**  
+- **GitHub Pages (Deployment)**  
+
+
+## 📦 Installation & Setup
+1. Clone the repository:
+   git clone https://github.com/Maham2104/todo-list-app.git
+   cd todo-list-app
+
+2. Install dependencies:
+    npm install
+
+3. Start development server:
+   npm run dev
+
+4. Build for production:
+   npm run build
+
+5. Deploy to GitHub Pages:
+    npm run deploy
+
+
+## 🌐 Live Demo:
+      Click here to view the live app: https://maham2104.github.io/todo-list-app/
+
+
+## 📸 Screenshots
+        Add screenshots of your app UI here (e.g., adding, editing, deleting todos).
+        You can take screenshots, put them inside a /screenshots folder, and link them like:
+         ![Todo App Screenshot](./screenshots/screenshot05.jpg)
+         ![Todo App Screenshot](./screenshots/screenshot04.jpg)
+         ![Todo App Screenshot](./screenshots/screenshot06.jpg)
+
+
+## 🎯 Learning Outcomes
+
+  - Understanding React component architecture
+  - Applying best practices for component reuse
+  - sing props for communication between components
+  - Styling components with CSS
+  - Deploying React apps with GitHub Pages
+
+
+  

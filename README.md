@@ -54,13 +54,16 @@ todo-list-app/
 
 
 ## 🌐 Live Demo:
-      Click here to view the live app: https://maham2104.github.io/todo-list-app/
+
+   Click here to view the live app:
+      https://maham2104.github.io/todo-list-app/
 
 
 ## 📸 Screenshots
-        Add screenshots of your app UI here (e.g., adding, editing, deleting todos).
-        You can take screenshots, put them inside a /screenshots folder, and link them like:
-         ![Todo App Screenshot](./screenshots/screenshot05.jpg)
+
+   Add screenshots of your app UI here (e.g., adding, editing, deleting todos).
+      You can take screenshots, put them inside a /screenshots folder, and link them like:
+          ![Todo App Screenshot](./screenshots/screenshot05.jpg)
          ![Todo App Screenshot](./screenshots/screenshot04.jpg)
          ![Todo App Screenshot](./screenshots/screenshot06.jpg)
 
